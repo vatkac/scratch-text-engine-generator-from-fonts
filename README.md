@@ -1,6 +1,8 @@
 # scratch-text-engine-generator-from-fonts
 Converts .ttf and .otf to Scratch 3 sprites (text engines you can use to render any text with any real font).
 
+Download the .exe and follow the instructions. You'll get a .sprite3 file. Import it into Scratch.
+
 Before we start configuring the engine, let's have a quick look at the animations.
 Animation types:
 1 — simple appearing of the letters one after another. Has a fixed speed.
